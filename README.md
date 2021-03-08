@@ -1,1 +1,5 @@
-# Machine_learning_in_business_course
+# Курс Машинное обучение в бизнесе
+
+### Homeworks
+
+Geek University: факультет Искусственного интеллекта
